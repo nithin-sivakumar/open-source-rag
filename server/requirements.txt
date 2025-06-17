@@ -1,0 +1,14 @@
+langgraph
+langchain
+fastapi
+uvicorn
+groq
+dotenv
+python-multipart
+PyPDF2 
+langchain-huggingface
+langchain_community 
+pypdf
+sentence-transformers
+langchain-mongodb
+pymongo
